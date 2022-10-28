@@ -1,0 +1,16 @@
+.card {
+    color: black;}
+
+.card-text {
+    min-width: 236px;
+    min-height: 350px;}
+
+h4 {
+    display: flex;
+    justify-content: center;}
+
+ul {
+    padding-left: 0px;}
+
+.li-content {
+height: 25px;}
